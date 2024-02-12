@@ -1,3 +1,3 @@
 # Festive trap
 
-[main website](www.festivetrap.com)
+[main website](https://www.festivetrap.com)
